@@ -1,8 +1,11 @@
 /* allgemeines zur Schriftart */
 body {
-    /* background-color: black; */
+    background-color: black;
     background-image: url("laterne01.jpg");
     background-size: 100%;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     padding-left: 5%;
 }
 
@@ -10,14 +13,14 @@ header {
     padding-top: 5%;
     color: #f4ba66;
     font-family: Arial, sans-serif;
-    font-size: 1.5em;
+    font-size: 3vh;
 }
 
 main {
     color: #fffcd4;
     font-family: Arial, sans-serif;
     padding: 5% 0;
-    font-size: 2em;
+    font-size: 2vh;
     width: 40%;
 }
 
