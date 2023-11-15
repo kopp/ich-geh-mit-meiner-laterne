@@ -1,12 +1,13 @@
-/* allgemeines zur Schriftart */
 body {
     background-color: black;
+    padding-left: 5%;
+}
+body.frontpage {
     background-image: url("laterne01.jpg");
     background-size: 100%;
     background-position-y: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    padding-left: 5%;
 }
 
 header {
@@ -24,6 +25,23 @@ main {
     width: 40%;
 }
 
+/* not visited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+main pre {
+    font-family: Arial, sans-serif;
+}
+
+div.songs h2 { 
+    padding-top: 5vh;
+}
 
 
 img {
