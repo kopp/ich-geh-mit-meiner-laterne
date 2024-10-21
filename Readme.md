@@ -1,6 +1,6 @@
 # Ich geh mit meiner Laterne
 
-Material zum Laternelaufen am 1.12., inklusive Website.
+Material zum Laternelaufen am 13.11.., inklusive Website.
 
 
 - [Flyer für social Media](https://kopp.github.io/ich-geh-mit-meiner-laterne/flyer-digital.png)
