@@ -1,6 +1,6 @@
 # Ich geh mit meiner Laterne
 
-Material zum Laternelaufen am 13.11.., inklusive Website.
+Material zum Laternelaufen inklusive Website.
 
 
 - [Website](https://kopp.github.io/ich-geh-mit-meiner-laterne/)
